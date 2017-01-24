@@ -1,0 +1,15 @@
+<h2>Input & Outputs</h2>
+<child [title]="title" (wasClicked)="clicked = $event"></child>
+You clicked {{clicked}}
+
+<h2>Two way data binding</h2>
+<input [(ngModel)]="name" placeholder="Your name"><br>
+Your value: <b>{{name}}</b><br>
+<br>
+<pre>[(ngModel)]="name"</pre> is equal as <pre>[ngModel]="name" (ngModelChange)="name=$event"</pre>
+
+<h2>Service</h2>
+<ul>
+  <li *ngFor="let item of names">{{item}}</li>
+</ul>
+<button (click)="sortAsc()">Asc</button> / <button (click)="sortDesc()">Desc</button>
