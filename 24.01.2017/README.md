@@ -1,5 +1,14 @@
 # Basics
 
+This demo will show how some basic things in angular works like:
+* Bootstraping
+* Module
+* Component
+* Service
+* Inputs & Outputs
+
+Slides of this meetup can be found [here](http://slides.com/ng-slo/introduction#/).
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.25.5.
 
 ## Development server
