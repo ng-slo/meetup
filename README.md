@@ -1,4 +1,4 @@
-# Angular Slovenia meetup
+# Angular Slovenia meetups
 
 Please join our [Meetup group](https://www.meetup.com/ng-slo/) and RSV to upcoming events.
 
