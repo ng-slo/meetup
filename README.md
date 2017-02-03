@@ -6,6 +6,11 @@ We will have meetups every 3 months. We will have talks and light talks, what is
 
 Everyone is more than welcome to present a topic. Here is a **[submission form](https://docs.google.com/forms/d/e/1FAIpQLScTxdDM714_edJDJwxYlLBId-oee3OYTGls9j2rzD5KyiF4QQ/viewform)** for your talk. Don't wait, next meetup is approaching with a lightning speed.
 
+## Next meetup
+Comming soon..
+
+## Past meetups
+
 ### [24.1.2017 - First Angular Slovenia meetup](https://www.meetup.com/ng-slo/events/236843238/)
 We will talk about how Angular 2+ works and what you can expect from this meetup group. You will find out what our plans are and what we would like to achieve.
   * [Slides](http://slides.com/ng-slo/introduction#/)
