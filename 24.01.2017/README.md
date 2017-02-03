@@ -1,4 +1,4 @@
-# Basics
+# 24.01.2017 - First Angular Slovenia meetup
 
 This demo will show how some basic things in angular works like:
 * Bootstraping
